@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Spotify Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a yet simple UI clone of Spotify using their API to render your avatar and playlist sumary :)
+
+![representation](https://i.imgur.com/wBqCJgR.jpeg)
 
 ## Available Scripts
 
